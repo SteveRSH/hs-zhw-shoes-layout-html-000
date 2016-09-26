@@ -18,10 +18,64 @@
   line-height: 0;
 }
 
-.clear {
-  clear: both;
+.shadow {
+  overflow: auto;
+
+}
+
+#featured_brands {
+width: 600px;
+float: left;
+margin: 10px;
+
+}
+
+#archive_list {
+  width: 300px;
+  float: left;
+  margin: 10px;
+
+}
+
+
+#deal1 {
+  width:300px;
+  float: left;
+  margin: 10px;
+}
+
+#deal2 {
+  width:300px;
+  float: left;
+  margin: 10px;
+}
+
+#deal3 {
+  width:300px;
+  float: left;
+  margin: 10px;
+}
+
+#right {
+  width:300px;
+  float: left;
+  margin: 10px;
+}
+
+#center {
+  width:300px;
+  float: left;
+  margin: 10px;
+}
+
+#left {
+  width:300px;
+  float: left;
+  margin: 10px;
+}
+
+#details .clearfix {
+  width: 960px;
 }
 
 /* Posititoning Classes */
-
-
